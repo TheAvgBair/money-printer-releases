@@ -52,4 +52,4 @@ I didn't add accounts, ads, or analytics. Your pay details, jobs, schedules, goa
 - [Privacy policy](https://theavgdev-money-printer.pages.dev/privacy/)
 - [Third-party notices](https://theavgdev-money-printer.pages.dev/third-party-notices/)
 
-This is where I'll post Money Printer downloads and update files. The app's source code is private.
+This is where I'll post Money Printer downloads and update files.
