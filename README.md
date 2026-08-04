@@ -4,23 +4,23 @@
 
 # Money Printer for Mac
 
-Hey — I built Money Printer because I wanted the workday to feel a little less abstract. It lives in your Mac's menu bar, keeps a live estimate of what you've earned, and lets you point that progress toward savings goals that actually matter to you.
+I built Money Printer because I wanted a simple way to see my work adding up during the day. It sits in my Mac's menu bar and shows an estimate of what I've earned. You can use it to track savings goals too.
 
-It is not payroll software, and it is not trying to replace your paystub. It is simply a better way to see your time and progress while you are working.
+It doesn't replace a paystub or payroll software. It's just a quick way to check your progress while you work.
 
 <!-- MONEY_PRINTER_GITHUB_RELEASE_START -->
 ## Almost ready
 
-I am finishing up Money Printer 1.0 now. There is not a public download yet, but once the final Mac build passes QA, the signed DMG and its checksum will show up right here.
+I'm putting the finishing touches on Money Printer 1.0. I haven't posted the download yet. Once the Mac build passes the last round of testing, I'll add the signed DMG and checksum here.
 <!-- MONEY_PRINTER_GITHUB_RELEASE_END -->
 
 ## What you can do with it
 
-- Watch your estimated earnings update live while you work
-- Set up more than one job, including schedules, breaks, overtime, and shift premiums
-- Send your progress toward a queue of savings goals and see how much time is left
+- See your estimated earnings update while you work
+- Add multiple jobs with their own schedules, breaks, overtime, and shift premiums
+- Track savings goals and see how much work is left
 - Review or edit past sessions, check weekly recaps, and export your history as a CSV
-- Use Shortcuts, optional reminders, different printer personalities, and unlockable accessories
+- Use Shortcuts, reminders, different printer personalities, and unlockable accessories
 
 <p align="center">
   <img src="https://theavgdev-money-printer.pages.dev/assets/app-popover.jpg" alt="Money Printer menu-bar popover" width="360">
@@ -28,7 +28,7 @@ I am finishing up Money Printer 1.0 now. There is not a public download yet, but
 
 ## Installing it
 
-It uses the normal Mac drag-and-drop installation:
+It installs like most Mac apps:
 
 1. Download **Money Printer.dmg** from the latest release.
 2. Open the DMG.
@@ -36,15 +36,15 @@ It uses the normal Mac drag-and-drop installation:
 4. Open Money Printer from Applications and complete setup.
 5. Look for the little printer in your Mac's menu bar.
 
-Money Printer is a menu-bar app, so it will not keep a permanent icon in your Dock. Every public build is Developer ID signed, notarized, and released with a SHA-256 checksum. It supports macOS 14 or later on Apple silicon and Intel Macs.
+Money Printer stays in the menu bar, so it won't keep an icon in your Dock. The public build will be Developer ID signed, notarized, and posted with a SHA-256 checksum. It supports macOS 14 or later on Apple silicon and Intel Macs.
 
-## A couple things I care about
+## Price and privacy
 
-You can try everything free for three days. If it is useful to you, the full unlock is **$3.99 once**. That is it — no subscription, no automatic charge, and no card required to start the trial.
+You can try the full app free for three days. If you like it, it's **$3.99 once** to keep using it. There's no subscription or automatic charge, and you don't need a card to start the trial.
 
-There is no account, advertising, or analytics. Your pay details, jobs, schedules, goals, and history stay on your Mac.
+I didn't add accounts, ads, or analytics. Your pay details, jobs, schedules, goals, and history stay on your Mac.
 
-## Links if you need them
+## Helpful links
 
 - [Product website](https://theavgdev-money-printer.pages.dev/)
 - [Installation guide](https://theavgdev-money-printer.pages.dev/install/)
@@ -52,4 +52,4 @@ There is no account, advertising, or analytics. Your pay details, jobs, schedule
 - [Privacy policy](https://theavgdev-money-printer.pages.dev/privacy/)
 - [Third-party notices](https://theavgdev-money-printer.pages.dev/third-party-notices/)
 
-This repository is the public home for Money Printer downloads and update files. I keep the app's source code private.
+This is where I'll post Money Printer downloads and update files. The app's source code is private.
