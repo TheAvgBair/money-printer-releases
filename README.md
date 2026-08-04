@@ -1,48 +1,50 @@
 <p align="center">
-  <img src="https://theavgdev-money-printer.pages.dev/assets/money-printer-social-card.jpg" alt="Money Printer for Mac" width="900">
+  <img src="https://theavgdev-money-printer.pages.dev/assets/money-printer-social-card.jpg?v=20260804-personal" alt="Money Printer for Mac" width="900">
 </p>
 
 # Money Printer for Mac
 
-**See your work add up.** Money Printer is a private macOS menu bar companion that turns your pay rate into a live earnings estimate and helps fund what matters next.
+Hey — I built Money Printer because I wanted the workday to feel a little less abstract. It lives in your Mac's menu bar, keeps a live estimate of what you've earned, and lets you point that progress toward savings goals that actually matter to you.
+
+It is not payroll software, and it is not trying to replace your paystub. It is simply a better way to see your time and progress while you are working.
 
 <!-- MONEY_PRINTER_GITHUB_RELEASE_START -->
-## Release coming soon
+## Almost ready
 
-Money Printer 1.0 is still being prepared. There are no public downloads in this repository yet. The signed DMG and its SHA-256 checksum will appear here together after final owner QA.
+I am finishing up Money Printer 1.0 now. There is not a public download yet, but once the final Mac build passes QA, the signed DMG and its checksum will show up right here.
 <!-- MONEY_PRINTER_GITHUB_RELEASE_END -->
 
-## What it does
+## What you can do with it
 
-- Tracks hourly pay, annual salary, or a custom per-second rate
-- Supports multiple jobs, schedules, unpaid breaks, overtime, and shift premiums
-- Shows live session, day, week, pay-period, and projected-paycheck estimates
-- Funds an ordered savings-goal queue with automatic rollover
-- Keeps editable session history, detailed CSV exports, and private weekly recaps
-- Includes Shortcuts actions, optional reminders, personalities, and unlockable accessories
-- Keeps pay details and earnings history on your Mac
+- Watch your estimated earnings update live while you work
+- Set up more than one job, including schedules, breaks, overtime, and shift premiums
+- Send your progress toward a queue of savings goals and see how much time is left
+- Review or edit past sessions, check weekly recaps, and export your history as a CSV
+- Use Shortcuts, optional reminders, different printer personalities, and unlockable accessories
 
 <p align="center">
   <img src="https://theavgdev-money-printer.pages.dev/assets/app-popover.jpg" alt="Money Printer menu-bar popover" width="360">
 </p>
 
-## Install the direct edition
+## Installing it
+
+It uses the normal Mac drag-and-drop installation:
 
 1. Download **Money Printer.dmg** from the latest release.
 2. Open the DMG.
 3. Drag **Money Printer** to **Applications**.
 4. Open Money Printer from Applications and complete setup.
-5. Look for the printer in the macOS menu bar; it does not keep a permanent Dock icon.
+5. Look for the little printer in your Mac's menu bar.
 
-Every public direct-edition build is Developer ID signed, notarized, and distributed with a SHA-256 checksum. Money Printer supports macOS 14 or later on Apple silicon and Intel Macs.
+Money Printer is a menu-bar app, so it will not keep a permanent icon in your Dock. Every public build is Developer ID signed, notarized, and released with a SHA-256 checksum. It supports macOS 14 or later on Apple silicon and Intel Macs.
 
-## Price and privacy
+## A couple things I care about
 
-Try every feature for three days. Full access is **$3.99 once**—no subscription and no automatic charge. The direct trial requires no card.
+You can try everything free for three days. If it is useful to you, the full unlock is **$3.99 once**. That is it — no subscription, no automatic charge, and no card required to start the trial.
 
-Money Printer has no account, advertising, or analytics. Pay details, job names, schedules, goals, history, receipts, and recaps stay on your Mac.
+There is no account, advertising, or analytics. Your pay details, jobs, schedules, goals, and history stay on your Mac.
 
-## Official links
+## Links if you need them
 
 - [Product website](https://theavgdev-money-printer.pages.dev/)
 - [Installation guide](https://theavgdev-money-printer.pages.dev/install/)
@@ -50,4 +52,4 @@ Money Printer has no account, advertising, or analytics. Pay details, job names,
 - [Privacy policy](https://theavgdev-money-printer.pages.dev/privacy/)
 - [Third-party notices](https://theavgdev-money-printer.pages.dev/third-party-notices/)
 
-This public repository contains release binaries and update artifacts. The Money Printer source repository is private.
+This repository is the public home for Money Printer downloads and update files. I keep the app's source code private.
